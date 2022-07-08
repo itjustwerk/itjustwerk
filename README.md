@@ -7,4 +7,4 @@
 - 📫 How to reach me: yaulokhei@gmail.com
 - ⚡ Fun fact: Any x86 computer is considered a PC.
 ## Achievements:
-Look to your ***right***.
+Look to your ***left***
