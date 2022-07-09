@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello
 ## About Me:
 - 🔭 I’m currently working on my browser game website.
 - 🌱 I’m currently learning C#.
