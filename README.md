@@ -5,6 +5,5 @@
 - 👯 I’m looking to collaborate on projects relating to code editor and terminal theming.
 - 🌐 I like tech gadgets and hardware more than software.
 - 💬 Ask me about computer hardware.
-- 📫 How to reach me: yaulokhei@gmail.com
 - ⚡ Fun fact: Any x86 computer is considered a PC.
 
